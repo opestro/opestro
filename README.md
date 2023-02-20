@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Mehdi Harzallah! 👋
 
-<!--
-**opestro/opestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer 👩‍💻 ( Nuxt js/Express js | MongoDB | Docker | Vuetify | Tailwind | Firebase & Appwrite )
+## 🛠 Skills
+ - Javascript, HTML, CSS
+ - Nuxt js (2/3), Pinia, Axios, Vuetify, Tailwind, daisyUI
+ - Express JS, MongoDB, Dcrypt+JWT
+ - Docker, CloudF, VPS/Linux, Hosting
+ - Ux & Cx
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## MEVN Stack
+
+**Client:** Nuxt, Pinia, TailwindCSS/Vuetify
+
+**Server:** Node, Express + MongoDB
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-harzallah-24a535225/)
+
+
+
+![Logo](https://media.licdn.com/dms/image/D4E03AQGYrwpwMb4J3w/profile-displayphoto-shrink_200_200/0/1675008746641?e=1682553600&v=beta&t=jbMRIfVu5I1lOciAOtF2408g1zhXiSu5f-rwX9IVLjk)
+
+
