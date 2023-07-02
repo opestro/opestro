@@ -1,11 +1,11 @@
 # Hi, I'm Mehdi Harzallah! 👋
 
-Web developer 👩‍💻 ( Nuxt js/Express js | MongoDB | Docker | Vuetify | Tailwind | Firebase & Appwrite )
+Web developer 👩‍💻 ( Nuxt js | DevOps <3 | Firebase & Appwrite /Express js )
 ## 🛠 Skills
  - Javascript, HTML, CSS
  - Nuxt js (2/3), Pinia, Axios, Vuetify, Tailwind, daisyUI
  - Express JS, MongoDB, Dcrypt+JWT
- - Docker, CloudF, VPS/Linux, Hosting
+ - Docker, CloudF, VPS/Linux, Hosting (DevOps)
  - Ux & Cx
 
 
